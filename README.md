@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylekennedy26
 - 👀 I’m interested in ... Software Development.
-- 🌱 I’m currently learning ... Java, C, C++, R, HTML, SQL, PhP/JSP
+- 🌱 I’m currently learning ... vim, Java, C, C++, R, HTML, SQL, PhP/JSP
 - 💞️ I’m looking to collaborate on ... anything fun.
 - 📫 How to reach me ... @email - kennedykt@appstate.edu
 
