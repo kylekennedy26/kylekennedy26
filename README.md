@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kylekennedy26
-- 👀 I’m interested in ... Software Development.
-- 🌱 I’m currently learning ... vim, Java, C, C++, R, HTML 5/ CSS, SQL, PhP/JSP
-- 💞️ I’m looking to collaborate on ... anything fun.
+- 👀 I’m interested in ... Full-Stack Software Development.
+- 🌱 I’m currently learning ... React and PostgreSQL.
+- 💞️ I’m looking to collaborate on ... anything fun or challenging.
 - 📫 How to reach me ... @email - kylethomaskennedy@gmail.com
 
 <!---
