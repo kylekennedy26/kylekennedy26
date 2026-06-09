@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylekennedy26
 - 👀 I’m interested in ... using technology to solve problems with empathy and sustainability.
-- 🌱 I’m currently learning ... React//Next.js and PostgreSQL.
+- 🌱 I’m currently learning ... Django // Golang
 - 💞️ I’m looking to collaborate on ... anything fun or challenging.
 - 📫 How to reach me ... @email - kylethomaskennedy@gmail.com
 
